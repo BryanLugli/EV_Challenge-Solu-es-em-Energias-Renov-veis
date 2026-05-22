@@ -1,4 +1,4 @@
-# EV_Challenge-_Solu-es-em-Energias-Re# GreenCharge
+# EV_Challenge-_Solu-es-em-Energias-Re# 
 
 Plataforma de gestao inteligente para eletropostos usando energia solar.
 
