@@ -138,5 +138,3 @@ Aproveitamento máximo da energia solar já gerada no local.
 Relatórios mensais automáticos de economia e CO2 evitado.
 Infraestrutura de recarga mais barata de operar e mais fácil de acompanhar.
 
-
-Projeto desenvolvido para o EV Challenge 2026 — Disciplina de Energias Renováveis e Sustentabilidade — FIAP
