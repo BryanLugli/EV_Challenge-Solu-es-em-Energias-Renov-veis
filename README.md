@@ -42,20 +42,6 @@ A parceria com a GoodWe, empresa lider em inversores solares, abre uma oportunid
 
 O GreenCharge e uma plataforma que conecta eletropostos a energia solar disponivel em tempo real e torna a recarga mais inteligente.
 
-Como funciona:
-
-```
-Painel Solar
-     |
-     v
-Inversor GoodWe  -->  API SEMS Portal  -->  GreenCharge
-                                                |
-                             -------------------+-------------------
-                             |                                     |
-                      Recarga inteligente               Painel de controle
-                      (prioriza solar)                 (gestor ve tudo)
-```
-
 Funcionalidades principais:
 
 **Recarga inteligente**
