@@ -1,6 +1,6 @@
 # EV_Challenge-Soluçoes-em-Energias-Renováveis
 
-Plataforma de gestao inteligente para eletropostos usando energia solar.
+Plataforma de gestao inteligente para eletropostos usando energia solar
 
 EV Challenge 2026 - Disciplina: Energias Renovaveis e Sustentabilidade - FIAP
 
