@@ -1,4 +1,4 @@
-# EV_Challenge-_Soluçoes-em-Energias-Renováveis# 
+# EV_Challenge-Soluçoes-em-Energias-Renováveis
 
 Plataforma de gestao inteligente para eletropostos usando energia solar.
 
