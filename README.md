@@ -72,7 +72,7 @@ Todo mes o sistema gera um relatorio com energia solar aproveitada, economia em 
 
 ---
 
-## Tecnologias Utilizadas
+## Tecnologia Utilizadas
 
 | Tecnologia | Para que serve |
 |------------|----------------|
