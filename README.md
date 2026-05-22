@@ -131,4 +131,3 @@ Do lado do negocio:
 ---
 
 Projeto desenvolvido para o EV Challenge 2026 - Disciplina de Energias Renovaveis e Sustentabilidade - FIAP
-nov-veis-e-Sustent-veis
